@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, I’m Xavi.
+- 💙 I love football ⚽, FC Barcelona fan 🔵🔴
+- 🏂 Snowboarder
+- 🎾 Padel lover
+- 💻 Always being on the lookout for amazing side projects to feed my learning curiosity
+- 📫 You can reach me through my [twitter](https://twitter.com/xavism9) or [LinkedIn](https://www.linkedin.com/in/xavisanchezmir/).
 
 <a target=_blank href="https://github.com/xavism">
   <img align="center" alt="Xavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xavism&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
