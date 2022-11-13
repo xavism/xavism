@@ -20,7 +20,6 @@
   </picture>
 </a>
 
-<!--
 <a target=_blank href="https://github.com/xavism">
   <picture>
     <source 
@@ -34,4 +33,4 @@
     <img align="center" alt="Xavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavism&layout=compact&hide=EJS&hide_border=true" />
   </picture>
 </a>
---> 
+
