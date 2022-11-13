@@ -3,6 +3,7 @@
 - 🏂 Snowboarder
 - 🎾 Padel lover
 - 💻 Always being on the lookout for amazing side projects to feed my learning curiosity
+- 📢 Favourite languages and frameworks: TS, JS, React, Vue
 - 📫 You can reach me through my [twitter](https://twitter.com/xavism9) or [LinkedIn](https://www.linkedin.com/in/xavisanchezmir/).
 
 <a target=_blank href="https://github.com/xavism">
