@@ -15,11 +15,21 @@
       srcset="https://github-readme-stats.vercel.app/api?username=xavism&show_icons=true&count_private=true&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=xavism&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
+    <img align="center" alt="Xavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xavism&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
   </picture>
 </a>
 <a target=_blank href="https://github.com/xavism">
-  <img align="center" alt="Xavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavism&theme=github_dark&layout=compact&hide=EJS&hide_border=true"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xavism&theme=github_dark&layout=compact&hide=EJS&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xavism&layout=compact&hide=EJS&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" alt="Xavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavism&layout=compact&hide=EJS&hide_border=true" />
+  </picture>
 </a>
 
 <!--
