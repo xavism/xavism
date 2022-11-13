@@ -1,7 +1,11 @@
 ### Hi there 👋
-![Xavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavism&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavism&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a target=_blank href="https://github.com/xavism">
+  <img align="center" alt="Xavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xavism&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
+</a>
+<a target=_blank href="https://github.com/xavism">
+  <img align="center" alt="Xavi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavism&theme=github_dark&layout=compact&hide=EJS&hide_border=true"/>
+</a>
 
 <!--
 **xavism/xavism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
