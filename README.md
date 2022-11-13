@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xavi.
+## 👋 Hi, I’m Xavi.
 - 💙 I love football ⚽, FC Barcelona fan 🔵🔴
 - 🏂 Snowboarder
 - 🎾 Padel lover
